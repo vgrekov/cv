@@ -1,46 +1,33 @@
 # Viktor Grekov
 
-Québec, Canada
-
-Email: viktor.grekov@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/vgrekov
-
-Portfolio: https://kcalculus.app
+Québec, Canada  
+Email: viktor.grekov@gmail.com  
+LinkedIn: https://www.linkedin.com/in/vgrekov  
+Portfolio: https://kcalculus.app  
 
 ## Professional Summary
 
-Flutter Developer and Senior Software Engineer with experience building mobile applications and complex enterprise systems.
+Flutter Developer and Senior Software Engineer with experience building mobile applications and complex enterprise systems.  
+Currently focused on Flutter and Dart, with an emphasis on clean architecture, maintainable UI, and practical product development.  
 
-Currently focused on Flutter and Dart, with an emphasis on clean architecture, maintainable UI, and practical product development.
-
-
-Previously worked as an independent software consultant on enterprise integration projects across retail, manufacturing, logistics, government, and e-commerce, including ERP, SAP, Salesforce, MuleSoft, legacy systems, and API-led architectures.
+Previously worked as an independent software consultant on enterprise integration projects across retail, manufacturing, logistics, government, and e-commerce, including ERP, SAP, Salesforce, MuleSoft, legacy systems, and API-led architectures.  
 
 ## Core Skills
 
-**Mobile:** Flutter, Dart, Material Design
-
-**Architecture:** MVVM, Repository Pattern, DAO Pattern, Domain Modeling
-
-**Models & State:** Riverpod, Freezed
-
-**Persistence:** SharedPreferences, SQLite, Cloud Firestore, Firebase Realtime Database
-
-**Firebase:** Firebase Authentication, App Check, Analytics, Crashlytics, Cloud Functions, Hosting
-
-**Integrations:** Algolia, Open Food Facts, USDA FoodData
-
-**Monetization:** Google Mobile Ads
-
-**Tools:** VSCode, Git
+**Mobile:** Flutter, Dart, Material Design  
+**Architecture:** MVVM, Repository Pattern, DAO Pattern, Domain Modeling  
+**Models & State:** Riverpod, Freezed  
+**Persistence:** SharedPreferences, SQLite, Cloud Firestore, Firebase Realtime Database  
+**Firebase:** Firebase Authentication, App Check, Analytics, Crashlytics, Cloud Functions, Hosting  
+**Integrations:** Algolia, Open Food Facts, USDA FoodData  
+**Monetization:** Google Mobile Ads  
+**Tools:** VSCode, Git  
 
 ## Experience
 
 ### Flutter Developer
-**Self-employed**
-
-**2025 – Present**
+**Self-employed**  
+**2025 – Present**  
 
 - Built a Flutter calorie and nutrition tracking app with meal logging, custom foods, dishes/recipes, nutrient goals, macro summaries, and daily calorie progress.
 - Implemented Riverpod-backed MVVM architecture with repository/DAO/service layers, domain use cases and immutable
@@ -60,9 +47,8 @@ field behavior across local and Firestore repositories.
 ---
 
 ### Senior Software Engineer / MuleSoft Integration Consultant
-**Self-employed**
-
-**2016 – 2024**
+**Self-employed**  
+**2016 – 2024**  
 
 - Worked as an independent software consultant on enterprise software and integration projects for international clients across retail, manufacturing, logistics, government, e-commerce, scientific publishing, and mobile software domains.
 - Designed and developed integrations between ERP systems, SAP, Salesforce, legacy platforms, supply chain planning systems, transportation management systems, store operations systems, payment providers, and delivery platforms.
@@ -80,17 +66,16 @@ field behavior across local and Firestore repositories.
 ## Selected Projects
 
 ### [kcalculus — Calorie Tracking App](https://kcalculus.app)
-**Flutter / Dart / Riverpod / Firebase / SQLite / Freezed**
+**Flutter / Dart / Riverpod / Firebase / SQLite / Freezed**  
 
 - Cross-platform Flutter nutrition tracking app for logging meals, creating custom foods and dishes, and monitoring calorie and macronutrient intake over time.
 - It solves the problem of flexible food tracking by supporting custom nutrition facts, portion/unit conversions, nutrient goals, barcode-based food import, and both local and cloud-backed data storage.
 
 ## Education
 
-**Donetsk National University** (Ukraine)
-
-Specialist degree in Applied Mathematics
+**Donetsk National University** (Ukraine)  
+Specialist degree in Applied Mathematics  
 
 ## Languages
 
-English, Ukrainian
+English, Ukrainian  
