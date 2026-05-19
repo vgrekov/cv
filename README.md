@@ -1,32 +1,45 @@
 # Viktor Grekov
 
 Québec, Canada
+
 Email: viktor.grekov@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/vgrekov
+
 Portfolio: https://kcalculus.app
 
 ## Professional Summary
 
 Flutter Developer and Senior Software Engineer with experience building mobile applications and complex enterprise systems.
+
 Currently focused on Flutter and Dart, with an emphasis on clean architecture, maintainable UI, and practical product development.
+
 
 Previously worked as an independent software consultant on enterprise integration projects across retail, manufacturing, logistics, government, and e-commerce, including ERP, SAP, Salesforce, MuleSoft, legacy systems, and API-led architectures.
 
 ## Core Skills
 
 **Mobile:** Flutter, Dart, Material Design
+
 **Architecture:** MVVM, Repository Pattern, DAO Pattern, Domain Modeling
+
 **Models & State:** Riverpod, Freezed
+
 **Persistence:** SharedPreferences, SQLite, Cloud Firestore, Firebase Realtime Database
+
 **Firebase:** Firebase Authentication, App Check, Analytics, Crashlytics, Cloud Functions, Hosting
+
 **Integrations:** Algolia, Open Food Facts, USDA FoodData
+
 **Monetization:** Google Mobile Ads
+
 **Tools:** VSCode, Git
 
 ## Experience
 
 ### Flutter Developer
 **Self-employed**
+
 **2025 – Present**
 
 - Built a Flutter calorie and nutrition tracking app with meal logging, custom foods, dishes/recipes, nutrient goals, macro summaries, and daily calorie progress.
@@ -48,6 +61,7 @@ field behavior across local and Firestore repositories.
 
 ### Senior Software Engineer / MuleSoft Integration Consultant
 **Self-employed**
+
 **2016 – 2024**
 
 - Worked as an independent software consultant on enterprise software and integration projects for international clients across retail, manufacturing, logistics, government, e-commerce, scientific publishing, and mobile software domains.
@@ -74,6 +88,7 @@ field behavior across local and Firestore repositories.
 ## Education
 
 **Donetsk National University** (Ukraine)
+
 Specialist degree in Applied Mathematics
 
 ## Languages
