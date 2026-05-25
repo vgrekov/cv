@@ -3,6 +3,7 @@
 Québec, Canada  
 Email: viktor.grekov@gmail.com  
 LinkedIn: https://www.linkedin.com/in/vgrekov  
+GitHub: https://github.com/vgrekov  
 Portfolio: https://kcalculus.app  
 
 ## Professional Summary
